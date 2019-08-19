@@ -4,6 +4,7 @@ import { nutri } from '../nutri.json';
 import AgrNut from './AgrNut';
 
 class Nutricion extends Component {
+  //CARTA
   constructor(){
     super();
     this.state = {
