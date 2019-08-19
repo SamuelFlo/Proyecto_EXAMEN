@@ -1,0 +1,35 @@
+{
+  "nutri":[
+    {
+      "Categoria": "Leche",
+      "Alimento":"Leche entera",
+      "Calorias":"57 gramos",
+      "Proteinas":"3 gramos",
+      "Grasas":"3 gramos"
+
+    },
+    {
+      "Categoria": "Embutidos",
+      "Alimento":"Mortadela",
+      "Calorias":"309 gramos",
+      "Proteinas":"17 gramos",
+      "Grasas":"25 gramos"
+    },
+    {
+      "Categoria": "Carne de Pescado",
+      "Alimento":"Salmon Rosado",
+      "Calorias":"99 gramos",
+      "Proteinas":"16.95 gramos",
+      "Grasas":"2.93 gramos"
+
+    },
+    {
+      "Categoria": "Vegetales",
+      "Alimento":"Aguacate",
+      "Calorias":"162 gramos",
+      "Proteinas":"1.8 gramos",
+      "Grasas":"16 gramos"
+
+    }
+  ]
+}
