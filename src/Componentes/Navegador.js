@@ -4,6 +4,7 @@ import React, { Component } from 'react';
 import Nutricion from './Nutricion';
 
 class Navegador extends Component {
+  //ENCAPSULADO EL NAVEGADOR
   render(){
     return (
       <nav className="navbar navbar-dark bg-dark">
