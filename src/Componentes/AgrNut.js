@@ -38,6 +38,7 @@ class AgrNut extends Component {
 
   render() {
     return (
+      //AGREGAR CARDS CON SUS RESPECTIVOS INPUTS
       <div className="card">
         <form onSubmit={this.handleSubmit} className="card-body">
           <div className="form-group">
