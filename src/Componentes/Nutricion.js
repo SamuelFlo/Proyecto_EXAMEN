@@ -13,7 +13,7 @@ class Nutricion extends Component {
     this.handleAddNutr=this.handleAddNutr.bind(this);
   }
   handleAddNutr(nutr) {
-    
+    //local storage
     var datosJson= JSON.stringify(this.state.nutri);
     localStorage.setItem('datosJson',datosJson);
     this.setState({
